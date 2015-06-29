@@ -1,0 +1,40 @@
+* {
+  font-family: 'Inconsolata', arial, serif;
+}
+
+#profile-container {
+}
+
+#heading-container {
+    background-color: #93AED9;
+    padding: 10px 5px 10px 5px;
+    margin-bottom: 10px;
+}
+
+#headerline {
+    border-bottom: 1px solid #FFFFFF; /* #DEDEDE */
+    color: #FFFFFF;
+}
+
+#profile-table {
+}
+
+#key-value {
+}
+
+#key {
+    color: #999;
+    display: inline;
+    text-align: right;
+    width: 25%;
+    padding-right: 10px;
+    background: #DEDEDE;
+}
+
+#value {
+    display: inline;
+    text-align: left;
+    width: 75%;
+    padding-left: 10px;
+}
+
